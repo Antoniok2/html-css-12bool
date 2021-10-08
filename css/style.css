@@ -10,10 +10,16 @@
     border: 1px solid black;
 }
 
-
-.spazio .row:first-child{
-    margin-top: 10px;
+.margin .col-xs-6 .row:first-child {
+    margin: 10px;
 }
 
+.color {
+    background-color: chartreuse;
+}
+
+.padd {
+    padding: 20px 0;
+}
 
 
